@@ -2,16 +2,16 @@
 
 
 ## Оглавение
-[1. Описание проекта]()
+[1. Описание проекта](https://github.com/AMK01001/Project-4.ML/tree/main?tab=readme-ov-file#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
-[2. Какой кейс решаем?]()
+[2. Какой кейс решаем?](https://github.com/AMK01001/Project-4.ML/tree/main?tab=readme-ov-file#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
 
-[3. Результаты]()
+[3. Результаты](https://github.com/AMK01001/Project-4.ML/tree/main?tab=readme-ov-file#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
 
 ## Описание проекта 
 Бизнес-задача: определить характеристики, по которым можно выявить клиентов, более склонных к открытию депозита в банке, и за счёт этого повысить результативность 
 маркетинговой кампании.
-:arrow up:[к оглавлению]()
+:arrow up:[к оглавлению](https://github.com/AMK01001/Project-4.ML/tree/main?tab=readme-ov-file#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ## Какой кейс решаем?
 
@@ -105,6 +105,6 @@
 работу с данными и оформление отчетов с помощью средств python
 
 ## Результаты
-Ноутбук с выполненными заданиями и выводами()
+Ноутбук с выполненными заданиями и выводами(https://github.com/AMK01001/Project-4.ML/blob/main/Project_4_ML.ipynb)
 
-:arrow up:[к оглавлению]()
+:arrow up:[к оглавлению](https://github.com/AMK01001/Project-4.ML/tree/main?tab=readme-ov-file#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5)
